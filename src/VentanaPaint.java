@@ -334,7 +334,7 @@ public class VentanaPaint extends javax.swing.JFrame {
 
     private void jSlider1MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jSlider1MousePressed
         
-        g2.setStroke(new BasicStroke(jSlider1.getValue()));
+        //g2.setStroke(new BasicStroke(jSlider1.getValue()));
     }//GEN-LAST:event_jSlider1MousePressed
 
     /**
